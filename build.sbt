@@ -17,7 +17,7 @@ sonarProperties ++= Map(
 )
 
 sonarProperties := Map(
-  "sonar.host.url" -> "http://192.168.0.128:9000",
+  "sonar.host.url" -> "http://192.168.0.145:9000",
   "sonar.projectName" -> "SonarMan",
   "sonar.projectKey" -> "263a1dcc3fbee8e6e7a7dcda14dca6c6ef1c3351",
   "sonar.sources" -> "src/main/scala",
