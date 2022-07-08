@@ -19,7 +19,7 @@ sonarProperties ++= Map(
 sonarProperties := Map(
   "sonar.host.url" -> "http://172.31.41.72/:9000",
   "sonar.projectName" -> "SonarMan",
-  "sonar.projectKey" -> "263a1dcc3fbee8e6e7a7dcda14dca6c6ef1c3351",
+  "sonar.projectKey" -> "squ_ff4c935eed8976bf274b96d6c9adcd1fcfe52ac0",
   "sonar.sources" -> "src/main/scala",
   "sonar.tests" -> "src/test/scala",
   "sonar.junit.reportPaths" -> "target/test-reports",
